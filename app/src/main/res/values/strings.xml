@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Proj</string>
+    <string name="beta_version">Beta Version</string>
+    <string name="remember_me">Remember me</string>
+    <string-array name="Colony_Name">
+        <item>
+            Sharqi
+        </item>
+        <item>
+            Fasil
+        </item>
+        <item>
+            Madina
+        </item>
+        <item>
+            Wahdat
+        </item>
+        <item>
+            Peoples
+        </item>
+        <item>
+            College
+        </item>
+        <item>
+            Allama iqbal
+        </item>
+        <item>
+            Defence phace I
+        </item>
+        <item>
+            Defence phase II
+        </item>
+    </string-array>
+</resources>

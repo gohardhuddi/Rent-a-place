@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84341647870",
+    "firebase_url": "https://rentup-70e32.firebaseio.com",
+    "project_id": "rentup-70e32",
+    "storage_bucket": "rentup-70e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84341647870:android:a9aaa47126279ecb3838af",
+        "android_client_info": {
+          "package_name": "com.example.rentup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84341647870-03odrkg216f24lrjss3ev74s90jetnr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6jiRYnRUPn5Ia8CPH52P6Ls8PYewPOmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84341647870-03odrkg216f24lrjss3ev74s90jetnr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
